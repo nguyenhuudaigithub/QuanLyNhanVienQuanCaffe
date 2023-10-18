@@ -1,0 +1,91 @@
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.Login.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.exe
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.exe
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.exe
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\QuanLyNhanVienQuanCaffe.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.Login.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.exe
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.QuanLy.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.ThongTinNhanVien.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.BaoCao.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.HoTro.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\report\ReportDSNV.rdlc
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\report\Report.rdlc
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\bin\Debug\report\ReportLuong.rdlc
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.Home.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.GDNhanVien.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.DieuChinhLuong.resources
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\Interop.Office.dll
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.csproj.ResolveComReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Thư mục mới (3)\Thư mục mới - Sao chép\QuanLyNhanVienQuanCaffe\QuanLyNhanVienQuanCaffe\obj\Debug\QuanLyNhanVienQuanCaffe.XuatExcel.resources
